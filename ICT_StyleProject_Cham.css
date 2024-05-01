@@ -1,0 +1,14 @@
+body{
+	color: deeppink;
+	font font-weight:900 ;
+	font-style: italic;
+	background-color: mistyrose ;}
+
+table 
+{ background-color: lavenderblush ;
+	outline-color:floralwhite; 
+	margin-left: auto;
+	margin-right: auto;
+	border-color:aliceblue	;
+	}
+P {text-align: center;}
